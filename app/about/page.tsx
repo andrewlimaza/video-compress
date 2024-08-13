@@ -6,34 +6,34 @@ const Page = () => {
       </h1>
       <div className="text-lg sm:text-xl space-y-5 text-gray-500 font-medium">
         <p>
-          It all started with a
+          It all started with a{" "}
           <span className="text-black">burning need.</span> As a developer, I
           was constantly juggling a hodgepodge of tools to manipulate media
           files. Each one offered a single feature - compression, trimming,
-          conversion - but none offered the
+          conversion - but none offered the{" "}
           <span className="text-black">
             comprehensive and user-friendly experience
-          </span>
+          </span>{" "}
           I craved.
         </p>
         <p>
           Sure, the command line was an option, but what about the non-technical
-          folks out there? Werent they deserving of a
+          folks out there? Weren&apos;t they deserving of a{" "}
           <span className="text-black">simple and intuitive solution too?</span>
         </p>
         <p>
           Desperate for a better way, I embarked on a quest. I scoured the web,
           hoping to find an existing tool that ticked all the boxes. But alas, I
           was met with a disheartening reality. Many tools boasted powerful
-          features, but their
+          features, but their{" "}
           <span className="text-black">cluttered interfaces</span> were enough
           to send shivers down my spine.
         </p>
         <p>
-          Then, a spark ignited within me. Why not
+          Then, a spark ignited within me. Why not{" "}
           <span className="text-black">bridge the gap</span> myself? I could
           leverage my coding skills to create a tool that combined
-          <span className="text-black"> powerful functionality</span> with a
+          <span className="text-black"> powerful functionality</span> with a{" "}
           <span className="text-black">user-friendly design.</span> ✨
         </p>
         <p>
@@ -42,14 +42,14 @@ const Page = () => {
           <span className="text-black">
             powerful tools shouldn&apos;t be shrouded in complexity
           </span>
-          . It's a testament to the fact that
+          . It&apos;s a testament to the fact that{" "}
           <span className="text-black">
-            
+            {" "}
             technology can be both effective and accessible.
           </span>
         </p>
         <p>
-          This isn&apos;t just a media manipulation tool; it&apos;s a
+          This isn&apos;t just a media manipulation tool; it&apos;s a{" "}
           <span className="text-black">passion project</span> fueled by a desire
           to make life easier for everyone. Join the journey and experience the
           difference <span className="text-black">Compress</span> can make!
